@@ -7,7 +7,7 @@
     "name": "shen",
     "email": ""
   },
-  "repository": "https://github.com/shen1992/umi-blocks/tree/master/modal-form/modal-form",
+  "repository": "https://github.com/shen1992/umi-blocks/tree/master/modal-form",
   "scripts": {
     "dev": "umi dev"
   },
