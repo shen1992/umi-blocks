@@ -22,5 +22,8 @@
     "umi-plugin-block-dev": "^2.0.0",
     "umi-types": "^0.3.0"
   },
+  "blockConfig": {
+    "specVersion": "0.1"
+  },
   "license": "MIT"
 }
